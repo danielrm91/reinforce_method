@@ -1,3 +1,6 @@
+#This method is based on the code presented in Chapter 4 from
+# "Deep Reinforcement Learning in Action"
+
 import gym
 import numpy as np
 import torch
